@@ -1,0 +1,15 @@
+{
+	"name": "Chrome Bookmark Tags",
+	"version": "0.1.0",
+	"description": "Organize your bookmarks with tags.",
+	"homepage_url": "http://jugglinmike.github.com/chrome-user-agent/",
+	
+	//"options_page": "options.html",
+	"background_page": "background.html",
+	"omnibox": {
+		"keyword": "ctag"
+	},
+	"permissions": [
+		"bookmarks"
+	]
+}
